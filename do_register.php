@@ -32,7 +32,7 @@ else{ //jika data tidak ditemukan, maka akan disimpan ke config.txt
 ?>
     <script type ="text/javascript">
         alert("!!! Pendaftaran berhasil!");
-        window.location.assign('register.php');
+        window.location.assign('index.php');
     </script> 
 
 <?php
