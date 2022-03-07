@@ -1,0 +1,6 @@
+NISN|NAMA LENGKAP|TANGGAL|WAKTU|KEGIATAN|HASIL
+3423332|Hazira|2022-03-15|20:10|Belajar|Baik
+
+546545845|Afrikal|2022-03-07|08:34|Belajar UKK|Sempurna
+546545845|Afrikal|2022-03-07|10:34|Upload Github|Terupload
+12345|Hazira Fakhrurrozi Amir|2022-03-08|11:43|Upload Github|Terupload
