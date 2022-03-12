@@ -1,12 +1,27 @@
 <div class="card">
     <div class="card-header">
-        <a href="user.php" class="btn btn-primary btn-icon-split">
+        
+    <div class="col-xl-12 col-lg-12 col-md-9">
+        <div class="row">
+            <div class="col-md-6">
+                <a href="user.php" class="btn btn-primary btn-icon-split">
+                    <span class="icon text-white-50">
+                        <i class="fas fa-arrow-left"></i>
+                    </span>
+                    <span class="text">Kembali</span>
+                </a>
+            </div>
+        <div class="col-md-6 text-right">
+            
+            <a href="?url=tulis_catatan" text-align="right" class="btn btn-primary btn-icon-split">
             <span class="icon text-white-50">
-                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-plus"></i>
             </span>
-            <span class="text">Kembali</span>
-        </a>
+            <span class="text">Tambah Catatan</span>
+            </a>
+        </div>
     </div>
+
     <div class="card-body">
         <div class="table-responsive">
             <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
@@ -49,6 +64,7 @@
                     <?php }} ?>
                 </tbody>
                 </table>
+                
         </div>
     </div>
 </div>

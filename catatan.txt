@@ -6,3 +6,4 @@ NISN|NAMA LENGKAP|TANGGAL|WAKTU|KEGIATAN|HASIL
 12345|Hazira Fakhrurrozi Amir|2022-03-08|11:43|Upload Github|Terupload
 55555|Andi|2022-03-09|21:29|Olahraga|Lelah
 55555|Andi|2022-03-15|21:32|Minum teh talua|Puas
+3423332|Hazira|2022-03-18|10:28|Github|Baik
