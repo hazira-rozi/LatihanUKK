@@ -12,7 +12,6 @@
                 </a>
             </div>
         <div class="col-md-6 text-right">
-            
             <a href="?url=tulis_catatan" text-align="right" class="btn btn-primary btn-icon-split">
             <span class="icon text-white-50">
                 <i class="fas fa-plus"></i>
