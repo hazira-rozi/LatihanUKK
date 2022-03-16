@@ -133,7 +133,9 @@ if(empty($_SESSION['nisn'])){ ?>
                                         include 'catatan_kegiatan.php';
                                         break;
 
-                                    default : "404 - Halaman tidak ditemukan"
+                                    default : 
+                                    echo "ERROR 404 - Halaman tidak ditemukan";
+
                                 }
                             }else{
                                 echo "Selamat datang di Aplikasi Latihan UKK. ";
