@@ -133,6 +133,10 @@ if(empty($_SESSION['nisn'])){ ?>
                                         include 'catatan_kegiatan.php';
                                         break;
 
+                                    case 'edit_kegiatan':
+                                        include 'edit_catatan.php';
+                                        break;
+
                                     default : 
                                     echo "ERROR 404 - Halaman tidak ditemukan";
 

@@ -1,9 +1,3 @@
-NISN|NAMA LENGKAP|TANGGAL|WAKTU|KEGIATAN|HASIL
-3423332|Hazira|2022-03-15|20:10|Belajar|Baik
+ID CATATAN|NISN|NAMA LENGKAP|TANGGAL|WAKTU|KEGIATAN|HASIL
+24014|1|User|2022-03-17|08:22|Coding|Error Terselesaikan
 
-546545845|Afrikal|2022-03-07|08:34|Belajar UKK|Sempurna
-546545845|Afrikal|2022-03-07|10:34|Upload Github|Terupload
-12345|Hazira Fakhrurrozi Amir|2022-03-08|11:43|Upload Github|Terupload
-55555|Andi|2022-03-09|21:29|Olahraga|Lelah
-55555|Andi|2022-03-15|21:32|Minum teh talua|Puas
-3423332|Hazira|2022-03-18|10:28|Github|Baik

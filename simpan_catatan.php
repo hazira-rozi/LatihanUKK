@@ -7,8 +7,9 @@ $tanggal =$_POST['tanggal'];
 $jam =$_POST['jam'];
 $kegiatan =$_POST['kegiatan'];
 $hasil =$_POST['hasil'];
+$id_catatan=rand(1000,100000);
 
-$format = "\n$nisn|$nama_lengkap|$tanggal|$jam|$kegiatan|$hasil";
+$format = "\n$id_catatan|$nisn|$nama_lengkap|$tanggal|$jam|$kegiatan|$hasil";
 
 //buka file catatan.txt
 $file = fopen('catatan.txt','a');
